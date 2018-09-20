@@ -22,6 +22,7 @@ choco install vscode-csharp
 choco install vscode-icons
 
 # .NET FRAMEWORK
+choco install dotnetfx
 choco install visualstudio2017professional
 choco install visualstudio2017buildtools
 choco install visualstudio2017-workload-netweb
