@@ -74,6 +74,8 @@ choco install webpi # Web Platform Installer
 # choco install urlrewrite
 choco install cpu-z.install
 choco install gpu-z
+choco install hwinfo.install
+choco install hwmonitor
 
 
 
